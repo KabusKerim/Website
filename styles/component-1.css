@@ -1,0 +1,96 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 260.9rem;
+}.component-1-sBF {
+  box-sizing: border-box;
+  padding: 2rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #9747ff;
+  border-radius: 0.5rem;
+}
+.component-1-sBF .property-1mtemadiyenalegriaafi1-final-3-XWh {
+  margin-right: 6.9rem;
+  height: 65.6rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.component-1-sBF .property-1mtemadiyenalegriaafi1-final-3-XWh .mtemadiyenalegriaafi1-final-3-2CZ {
+  width: 45.9rem;
+  height: 65.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-sBF .property-1frame-7-KBf {
+  margin-right: 6.8rem;
+  height: 65.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.component-1-sBF .property-1frame-7-KBf .mtemadiyenalegriaafi2-final-2-di9 {
+  width: 45.9rem;
+  height: 65.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-sBF .property-1frame-8-Y4R {
+  margin-right: 6.3rem;
+  height: 65.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.component-1-sBF .property-1frame-8-Y4R .alegriaposter3-final-FjX {
+  width: 45.9rem;
+  height: 65.6rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-sBF .property-1frame-9-kgH {
+  margin-right: 7.4rem;
+  height: 65.6rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.component-1-sBF .property-1frame-9-kgH .alegriaposter4-final-D45 {
+  width: 45.9rem;
+  height: 65.576rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.component-1-sBF .property-1alegriaposter5-final-5MB {
+  margin-bottom: 0.024rem;
+  height: 65.576rem;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.component-1-sBF .property-1alegriaposter5-final-5MB .alegriaposter5-final-9rq {
+  width: 45.9rem;
+  height: 65.576rem;
+  object-fit: cover;
+  vertical-align: top;
+}

@@ -1,0 +1,30 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 71.8rem;
+}.frame-24-DYM {
+  width: 100%;
+  height: 101.5rem;
+  cursor: pointer;
+  overflow: hidden;
+  position: relative;
+  background-color: #ffffff;
+}
+.frame-24-DYM .connotation01-1-ZcD {
+  width: 71.8rem;
+  height: 101.5rem;
+  object-fit: cover;
+  vertical-align: top;
+}
